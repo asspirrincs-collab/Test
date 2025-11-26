@@ -1,0 +1,5 @@
+{
+  "name": "MooManager: Livestock Tracker",
+  "description": "Мобильное приложение для управления поголовьем КРС. Отслеживание веса, дат рождения, осеменения и здоровья с помощью AI-ассистента.",
+  "requestFramePermissions": []
+}
